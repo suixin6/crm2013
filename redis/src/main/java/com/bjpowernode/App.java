@@ -14,7 +14,7 @@ public class App {
         System.out.println(username);
         String age = jedis.get("age");
         System.out.println(age);
-
+//阿斯顿撒多
 
 //        Jedis jedis=new Jedis("127.0.0.1",6379);
 //        //删除所有db
